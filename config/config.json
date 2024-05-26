@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "oVFUNiCstCoCmdgieNcwAzQgWnEaDbRo",
+    "database": "railway",
+    "host": "roundhouse.proxy.rlwy.net",
+    "dialect": "mysql2",
+    "port": 20174
+  },
+  "test": {
+    "username": "root",
+    "password": "oVFUNiCstCoCmdgieNcwAzQgWnEaDbRo",
+    "database": "railway",
+    "host": "roundhouse.proxy.rlwy.net",
+    "dialect": "mysql2",
+    "port": 20174
+  },
+  "production": {
+    "username": "root",
+    "password": "oVFUNiCstCoCmdgieNcwAzQgWnEaDbRo",
+    "database": "railway",
+    "host": "roundhouse.proxy.rlwy.net",
+    "dialect": "mysql2",
+    "port": 20174
+  }
+}
